@@ -1,4 +1,4 @@
-# **Visualisation of Data Professionals Survey in Power BI**
+# **Visualisation of Sleep Efficiency Data in Tableau**
 
 ![Dashboard](dashboard.png)
 
